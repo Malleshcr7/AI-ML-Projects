@@ -62,6 +62,6 @@ This project is licensed under the [Specify your license, e.g., MIT License] - s
 
 ## Contact
 
-**[Your Name/GitHub Username]** - Malleshcr7
+**[Telugu Mallesh]** - Malleshcr7
 - GitHub: [https://github.com/Malleshcr7](https://github.com/Malleshcr7)
 - [Linked in: https://www.linkedin.com/in/telugu-mallesh/, telugumallesh79@gmail.com]
